@@ -2,7 +2,7 @@
 $GLOBALS['_ta_campaign_key'] = '444b212ac0952f218b9c5d2a230088cb';
 $GLOBALS['_ta_debug_mode'] = false; //To enable debug mode, set to true or load this script with a '?debug_key=444b212ac0952f218b9c5d2a230088cb' parameter
 
-require 'bootloader_0c07cb5a76891083cead222914dff6ed.php';
+require 'bootloader.php';
 
 $campaign_id = '4o3bd5';
 
